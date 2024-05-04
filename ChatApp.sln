@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatApp", "ChatApp\ChatApp.csproj", "{2EBE8F8C-0631-43BB-AFAB-5C26E4E95112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAUISignalRSample.Server", "MAUISignalRSample.Server\MAUISignalRSample.Server.csproj", "{AEC82E8A-D32E-4DCA-AFFF-34D689D21622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EBE8F8C-0631-43BB-AFAB-5C26E4E95112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBE8F8C-0631-43BB-AFAB-5C26E4E95112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBE8F8C-0631-43BB-AFAB-5C26E4E95112}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2EBE8F8C-0631-43BB-AFAB-5C26E4E95112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBE8F8C-0631-43BB-AFAB-5C26E4E95112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EBE8F8C-0631-43BB-AFAB-5C26E4E95112}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AEC82E8A-D32E-4DCA-AFFF-34D689D21622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC82E8A-D32E-4DCA-AFFF-34D689D21622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC82E8A-D32E-4DCA-AFFF-34D689D21622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC82E8A-D32E-4DCA-AFFF-34D689D21622}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21F731C3-A9DE-4E3C-8295-47281604BC92}
+	EndGlobalSection
+EndGlobal
